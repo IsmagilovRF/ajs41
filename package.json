@@ -37,8 +37,7 @@
     "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
-    "core-js": "^3.8.3",
-    "fsevents": "^2.3.1"
+    "core-js": "^3.8.3"
   },
   "repository": {
     "type": "git",
@@ -53,5 +52,5 @@
       "pre-commit": "npm test"
     }
   },
-  "description": ""
+  "description": "ajs41  ДЗ41"
 }
